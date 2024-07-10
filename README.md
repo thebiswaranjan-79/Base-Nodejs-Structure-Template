@@ -61,4 +61,12 @@ Let's take a Look Inside the `src` folder
 }
 
 ```
+or 
+
+ - You can go inside the src folder and execute npx sequelize init 
+ 
 - If your'e setting up your development environment, then write the name of your username and password of your db and in dialect mention whaever you are using for ex : mysql, mariadb etc.
+
+## To run the Project 
+- npm install
+- npm run dev
