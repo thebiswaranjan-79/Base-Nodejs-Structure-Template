@@ -1,4 +1,5 @@
 # This is a base Node js Project Template , which can be use as it has been prepared, by keeping some of the most important code principles and project management recommendations. Feel Free to Use it .....
+# It refers to how you can use the Sequelize ORM in CLI without any setting or without any db connection 
 
 `src` -> Inside the src all the actuall source code regarding the project will reside, thsi will not include any kind of tests.(You might want to make separate tests folder)
 
